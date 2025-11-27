@@ -1,9 +1,9 @@
-# YAKA's artifacts
+# Artifacts / Archive for K
 
 ### Please give the repo a :star:
 
 ### Usage
-**👉 You can download YAKA's artifacts from [this page](https://github.com/YAKATeam/artifacts/releases/). It's always safe and ready to download.**
+**👉 You can download these artifacts from [this page](https://github.com/YAKATeam/artifacts/releases/). It's always safe and ready to download.**
 
 <div align="center">
   
